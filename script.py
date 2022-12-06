@@ -1,2 +1,3 @@
-this is python file
+print("hello this is python")
+
 
